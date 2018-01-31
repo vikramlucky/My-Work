@@ -8,3 +8,5 @@ Portfolio of Data Science projects.
 	
 - ### Data Cleaning & Visualization
 	-[Star_Wars_Survey-Project](https://github.com/vikramlucky/Portfolio/blob/master/Project_%20Star%20Wars%20Survey/Data%20Cleaning%20and%20Visualization.ipynb): In this Project I cleaned and explored the survey conducted by FiveThirtyEight, The team surveyed Star Wars fans using the online tool SurveyMonkey, which can be downloaded from their github repo.
+- ### SQL & Python
+	coming soon ;)
