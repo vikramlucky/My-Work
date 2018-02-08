@@ -3,8 +3,7 @@ Portfolio of Data Science projects.
 ## Contents
 
 - ### Machine Learning
-	-[A complete Data Science- Project]
-(https://github.com/vikramlucky/Portfolio/tree/master/lending_club): This project will represent a full data science life cycle, from data cleaning and feature selection to machine learning. In this project I will focus on credit modelling, focusing on modeling a borrower's credit risk. I will be working with financial lending data from Lending Club.
+	-[A complete Data Science- Project](https://github.com/vikramlucky/Portfolio/tree/master/lending_club): This project will represent a full data science life cycle, from data cleaning and feature selection to machine learning. In this project I will focus on credit modelling, focusing on modeling a borrower's credit risk. I will be working with financial lending data from Lending Club.
 challenges: Higher Baseline ~.86 - my goal for this project will be to work with different Machine learning algorithms such as(Logistic Regression, Random Forest, Neural Network), and try to beat the baseline and furthure improve Models performance.
 	
 	-[Predicting_Bike_Rentals-Project](https://github.com/vikramlucky/Portfolio/blob/master/Predicting_Bike_Rentals/Predicting_Bike_Rentals-Project.ipynb): In this project I tried to create a model that predicts the total number of bikes people rented in a given hour. To accomplish this, I created a few different machine learning models and evaluated their performance.
