@@ -7,7 +7,7 @@ Portfolio of Data Science projects.
 Challenges: Higher Baseline ~.86 - my goal for this project will be to work with different Machine learning algorithms such as(Logistic Regression, Random Forest, Neural Network), and try to beat the baseline and further improve Models performance.
 	
 	-[Predicting_Bike_Rentals-Project](https://github.com/vikramlucky/Portfolio/blob/master/Predicting_Bike_Rentals/Predicting_Bike_Rentals-Project.ipynb): In this project I tried to create a model that predicts the total number of bikes people rented in a given hour. To accomplish this, I created a few different machine learning models and evaluated their performance.
-	
+	-[NLP + Webscraping Porject using Reddit's data](): In this project I scraped Reddit's data (comments, likes etc) then using NLP and other technique tried to find what makes one post popular over other.
 (Stock Market prediction project) - in progress <br>
 (Ames housing data- House pricing prediction) - Soon <br>
 	
