@@ -1,4 +1,4 @@
-# Portfolio
+# Completed Projects
 Portfolio of Data Science projects.
 ## Contents
 
