@@ -3,7 +3,7 @@ Portfolio of Data Science projects.
 ## Contents
 
 - ### Machine Learning & Deep Learning Projects
-  -[Urban Sound Classification [Deep learning]- Audio Processing](https://github.com/vikramlucky/Springboard/blob/master/Capstone_Project_2/Code/UrbanSoundClassification.ipynb):
+  -[Urban Sound Classification [Deep learning]- Audio Processing](https://github.com/vikramlucky/Springboard/tree/master/Capstone_Project_2):
 	How about teaching computer to classify urban sounds automatically into categories!? -That is exactly what i will be doing in this project using various sophisticated Machine learning and deep learning techniques.
 	DATA: Created by Justin Salamon, Christopher Jacoby and Juan Pablo Bello
 
